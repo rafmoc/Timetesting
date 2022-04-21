@@ -5,3 +5,10 @@ C:\Users\asus\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTe
 C:\Users\asus\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.exe
 C:\Users\asus\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.pdb
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\bin\Debug\TimeTesting.exe.config
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\bin\Debug\TimeTesting.exe
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\bin\Debug\TimeTesting.pdb
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.csproj.AssemblyReference.cache
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.csproj.CoreCompileInputs.cache
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.exe
+C:\Users\Rafmoc\Desktop\Unity\Timetesting\TimeTesting\TimeTesting\obj\Debug\TimeTesting.pdb
